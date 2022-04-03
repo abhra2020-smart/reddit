@@ -8,4 +8,4 @@ app = Flask("reddit")
 set_app(app)
 run()
 
-app.run(host=ip, port=80)
+app.run(port=80)
